@@ -1,5 +1,0 @@
-//after making index,,,
- 2pg - made urlSchema in models (dealing with DB),,,    
- 3pg - now making router of url DB schema in DIR-routes/url.js
- 4pg - but before this we are designing the controller/url.js which creates and post the shortID and redirectURL to db, and finally export (connect to router)
- 5pg - going back to the routes/url.js, 
